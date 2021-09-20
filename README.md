@@ -8,6 +8,7 @@
 </br>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/C-important?style=flat-square&logo=C&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Python-ff69b4?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp

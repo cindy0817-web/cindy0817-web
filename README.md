@@ -24,6 +24,6 @@
 * [blog](https://blog.naver.com/cindybae0817)  
 
 
-## 🤗Welcome!
+## 🤗Welcome!  
 
 ![seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cindy0817-web&theme=cobalt&show_icons=true)

@@ -26,4 +26,4 @@
 
 ## 🤗Welcome!  
 
-![seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cindy0817-web&theme=cobalt&show_icons=true)
+![seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-double-7&theme=cobalt&show_icons=true)

@@ -1,4 +1,3 @@
-
 # 🤗Welcome! 
 <div align=center>
 	
@@ -27,5 +26,4 @@
 * [All about me](https://gratis-stealer-21c.notion.site/Developer-Seoyeon-0eb18927bfbb462a84db0e0261a9e725)  
 * [blog](https://blog.naver.com/cindybae0817)  
 
-
-
+[![Seoyeon's github activity graph](https://activity-graph.herokuapp.com/graph?username=seoyeon-double-7&theme=monokai)](https://github.com/seoyeon-double/github-readme-activity-graph)

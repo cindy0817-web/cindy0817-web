@@ -1,4 +1,4 @@
-# 🛠 Tech Stack
+# 🛠 Tech Stack 🛠
 
 <h4 align=center>💛 Techs that I've used at least once 💛</h4>
 </br>

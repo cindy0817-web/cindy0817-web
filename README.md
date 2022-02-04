@@ -1,4 +1,4 @@
-# 🛠 Tech Stack 🛠
+# 🛠 Tech Stack
 
 <h4 align=center>💛 Techs that I've used at least once 💛</h4>
 </br>
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> </p>
 
 
-# 👀 contect me 👀 
+# 👀 contect me 
 * email : <s2103@e-mirim.hs.kr>  
 * [Tstory](https://dodeream-developer.tistory.com/)  
 * [All about me(Notion)](https://incongruous-vanadium-119.notion.site/Flexible-Developer-Seoyeon-394f826baab54e1f903921a46efe5281)  

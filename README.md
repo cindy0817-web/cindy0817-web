@@ -16,7 +16,7 @@
 # 🎈contect me 
 * email : <s2103@e-mirim.hs.kr>  
 * [Tstory](https://dodeream-developer.tistory.com/)  
-* [All about me(Notion)](https://incongruous-vanadium-119.notion.site/Flexible-Developer-Seoyeon-394f826baab54e1f903921a46efe5281)  
+* [portfolio](https://incongruous-vanadium-119.notion.site/Flexible-Developer-Seoyeon-394f826baab54e1f903921a46efe5281)  
 
 ![seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-double-7&theme=cobalt&show_icons=true)
 

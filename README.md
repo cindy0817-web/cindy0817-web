@@ -14,7 +14,6 @@
 
 
 # 🎈contect me 
-* email : <s2103@e-mirim.hs.kr>  
 * [Tstory](https://dodeream-developer.tistory.com/)  
 
 ## [**portfolio** here!](https://resolute-cent-2ac.notion.site/Flexible-Developer-Seoyeon-4f3d0f42c57240a8bd253c7fc58b8fe7)  

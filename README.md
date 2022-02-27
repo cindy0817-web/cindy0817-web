@@ -36,7 +36,7 @@ Interested in `javaScript`, `JQuery`, `Ajax`, `React`, `typescript`, `Spring`, `
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br><br>
   
-**🎈contect me🎈**  
+**🎈 contect me🎈**  
 
 <a href="https://velog.io/@cindy0817-web"><img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://resolute-cent-2ac.notion.site/Flexible-Developer-Seoyeon-4f3d0f42c57240a8bd253c7fc58b8fe7"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a><br><br><br>

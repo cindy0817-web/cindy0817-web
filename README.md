@@ -45,7 +45,6 @@ Interested in `javaScript`, `JQuery`, `Ajax`, `React`, `typescript`, `Spring`, `
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon-double-7&layout=compact)](https://github.com/seoyeon-double-7/github-readme-stats)
 
  <!--START_SECTION:waka-->
- 
   <!--END_SECTION:waka-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcindy0817-web&count_bg=%23F3C6F2&title_bg=%23A0A09E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

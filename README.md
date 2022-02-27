@@ -39,5 +39,9 @@ Interested in `javaScript`, `JQuery`, `Ajax`, `React`, `typescript`, `Spring`, `
 <a href="https://velog.io/@cindy0817-web"><img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://resolute-cent-2ac.notion.site/Flexible-Developer-Seoyeon-4f3d0f42c57240a8bd253c7fc58b8fe7"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a><br><br><br>
 
+## ME  
+![SEOYEON BAE's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-double-7&hide=contribs,prs&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon-double-7&layout=compact)](https://github.com/seoyeon-double-7/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcindy0817-web&count_bg=%23F3C6F2&title_bg=%23A0A09E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

@@ -1,3 +1,5 @@
+
+
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&section=header&text=SEOYEON%20BAE\%20🌞&fontAlignY=45&desc=a%20passionate%20person%20who%20loves%20FRONTEND&descSize=25&descAlignY=75&fontSize=60&animation=twinkling) <br><br>
 
 Hi there!👋<br><br>
@@ -47,4 +49,5 @@ Interested in `javaScript`, `JQuery`, `Ajax`, `React`, `typescript`, `Spring`, `
  <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 
+[![wakatime](https://wakatime.com/badge/github/seoyeon-double-7/seoyeon-double-7.svg)](https://wakatime.com/badge/github/seoyeon-double-7/seoyeon-double-7)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcindy0817-web&count_bg=%23F3C6F2&title_bg=%23A0A09E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

@@ -46,6 +46,8 @@ Interested in `javaScript`, `Ajax`, `React`, `typescript`, `Spring`, `Spring boo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon-double-7&layout=compact)](https://github.com/seoyeon-double-7/github-readme-stats)
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@09a0a224-d5db-47f4-9ac9-b0e42835f91a/be65ce4d-3b5d-4c4d-87c5-ae6b2e07cfad.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@09a0a224-d5db-47f4-9ac9-b0e42835f91a/81ddf46f-daa7-4e18-8478-5492aa9a9f7a.png" /></a>
 
 <a href="https://wakatime.com/badge/github/seoyeon-double-7/seoyeon-double-7"><img src="https://wakatime.com/badge/github/seoyeon-double-7/seoyeon-double-7.svg" alt="wakatime"></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcindy0817-web&count_bg=%23F3C6F2&title_bg=%23A0A09E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

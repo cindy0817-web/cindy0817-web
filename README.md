@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&section=header&text=SEOYEON%20BAE\%20🌞&fontAlignY=45&desc=a%20passionate%20person%20who%20loves%20FRONTEND&descSize=25&descAlignY=75&fontSize=60&animation=twinkling) <br><br>
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&section=header&text=SEOYEON%20BAE\%20💡&fontAlignY=45&desc=a%20passionate%20person%20who%20loves%20FRONTEND&descSize=25&descAlignY=75&fontSize=60&animation=twinkling) <br><br>
 
 Hi there!👋<br><br>
 I'm a ***passionate sutdent*** who loves **frontend** and *design* as well.  
@@ -8,7 +8,7 @@ I'm a ***passionate sutdent*** who loves **frontend** and *design* as well.
 I'm studying **web** with 🌈[SpartaCodingClub](https://spartacodingclub.kr/)🌈
 I'm learning **BackEnd** stac at school!
 
-Interested in `javaScript`, `Ajax`, `React`, `typescript`, `Spring`, `Spring boot`, `datascience` these days...<br><br><br>
+Interested in `javaScript`, `Ajax`, `React`, `typescript`, `Spring`, `Spring boot`, `datastructure` these days...<br><br><br>
 <img src="https://user-images.githubusercontent.com/83990943/155281869-b61c5d9f-d9f0-443d-bbb4-79ef7fbde87d.gif" width="100px" align="center">
 
 <div align="center">

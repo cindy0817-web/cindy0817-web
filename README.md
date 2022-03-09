@@ -47,7 +47,7 @@ Interested in `javaScript`, `Ajax`, `React`, `typescript`, `Spring`, `Spring boo
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@09a0a224-d5db-47f4-9ac9-b0e42835f91a/be65ce4d-3b5d-4c4d-87c5-ae6b2e07cfad.png" /></a>
   
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@09a0a224-d5db-47f4-9ac9-b0e42835f91a/81ddf46f-daa7-4e18-8478-5492aa9a9f7a.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@09a0a224-d5db-47f4-9ac9-b0e42835f91a/a868055d-4450-4685-ac27-ac4fa96e1a5c.png" /></a>
 
 </div>
 </details>

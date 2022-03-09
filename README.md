@@ -14,7 +14,9 @@ Interested in `javaScript`, `Ajax`, `React`, `typescript`, `Spring`, `Spring boo
 <div align="center">
   
 **🎄Tech Stack🎄**
-
+  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="76" height="76" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="76" height="76" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="76" height="76" /></div>
+  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -24,9 +26,10 @@ Interested in `javaScript`, `Ajax`, `React`, `typescript`, `Spring`, `Spring boo
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><br><br>
 
 **🌷I've used🌷**
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="76" height="76" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="76" height="76" /></div>
+   
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>
@@ -42,14 +45,15 @@ Interested in `javaScript`, `Ajax`, `React`, `typescript`, `Spring`, `Spring boo
 <a href="https://resolute-cent-2ac.notion.site/Flexible-Developer-Seoyeon-4f3d0f42c57240a8bd253c7fc58b8fe7"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a><br><br><br>
 
 <details>
-<summary>👩‍💻WakaTime👩‍</summary>
+<summary>👩‍💻Click Here!</summary>
 <div markdown="1">       
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@09a0a224-d5db-47f4-9ac9-b0e42835f91a/be65ce4d-3b5d-4c4d-87c5-ae6b2e07cfad.png" /></a>
-  
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@09a0a224-d5db-47f4-9ac9-b0e42835f91a/a868055d-4450-4685-ac27-ac4fa96e1a5c.png" /></a>
+<img src="https://wakatime.com/share/@09a0a224-d5db-47f4-9ac9-b0e42835f91a/be65ce4d-3b5d-4c4d-87c5-ae6b2e07cfad.png" width="500px"/>  
+<img src="https://wakatime.com/share/@09a0a224-d5db-47f4-9ac9-b0e42835f91a/a868055d-4450-4685-ac27-ac4fa96e1a5c.png" width="500px"/>  
+<img src="https://github-profile-trophy.vercel.app/?username=seoyeon-double-7&theme=gruvbox&title=Stars,Followers,Commits,Repositories"/>
 
 </div>
+  
 </details>
 
 

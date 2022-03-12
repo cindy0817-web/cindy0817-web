@@ -13,6 +13,8 @@ Interested in `javaScript`, `Ajax`, `React`, `typescript`, `Spring`, `Spring boo
 
 <div align="center">
   
+------------  
+  
 **🎄Tech Stack🎄**
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="76" height="76" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="76" height="76" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="76" height="76" /></div>

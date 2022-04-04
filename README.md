@@ -1,5 +1,3 @@
-
-
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&section=header&text=SEOYEON%20BAE\%20💡&fontAlignY=45&desc=a%20passionate%20person%20who%20loves%20FRONTEND&descSize=25&descAlignY=75&fontSize=60&animation=twinkling) <br><br>
 
 Hi there!👋<br><br>

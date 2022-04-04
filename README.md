@@ -7,11 +7,8 @@ I'm studying **web** with 🌈[SpartaCodingClub](https://spartacodingclub.kr/)�
 I'm learning **BackEnd** stac at school!
 
 Interested in `javaScript`, , `React`,`Spring`, `Spring boot`, `datastructure`,`kotlin` these days...<br><br><br>
-<img src="https://user-images.githubusercontent.com/83990943/155281869-b61c5d9f-d9f0-443d-bbb4-79ef7fbde87d.gif" width="100px" align="center">
-
 <div align="center">
-  
-------------  
+
   
 **🎄Tech Stack🎄**
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="76" height="76" />
@@ -58,9 +55,6 @@ Interested in `javaScript`, , `React`,`Spring`, `Spring boot`, `datastructure`,`
 
 ## ME  
 ![SEOYEON BAE's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-double-7&hide=contribs,prs&count_private=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon-double-7&layout=compact)](https://github.com/seoyeon-double-7/github-readme-stats)
-
 
 <a href="https://wakatime.com/badge/github/seoyeon-double-7/seoyeon-double-7"><img src="https://wakatime.com/badge/github/seoyeon-double-7/seoyeon-double-7.svg" alt="wakatime"></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcindy0817-web&count_bg=%23F3C6F2&title_bg=%23A0A09E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

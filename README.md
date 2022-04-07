@@ -3,7 +3,7 @@
 Hi there!👋<br><br>
 I'm a ***passionate sutdent*** who loves **frontend** and *design* as well.  
 
-I'm studying **web** with 🌈[SpartaCodingClub](https://spartacodingclub.kr/)🌈
+I'm studying **web**
 I'm learning **BackEnd** stac at school!
 
 Interested in `javaScript`, , `React`,`Spring`, `Spring boot`, `datastructure`,`kotlin` these days...<br><br><br>

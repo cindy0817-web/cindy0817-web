@@ -51,5 +51,4 @@ Interested in `javaScript`, , `React`,`Spring`, `Spring boot`, `CS`,`Kotlin` the
 ## ME  
 ![SEOYEON BAE's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-double-7&hide=contribs,prs&count_private=true&show_icons=true)
 
-<a href="https://wakatime.com/badge/github/seoyeon-double-7/seoyeon-double-7"><img src="https://wakatime.com/badge/github/seoyeon-double-7/seoyeon-double-7.svg" alt="wakatime"></a>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcindy0817-web&count_bg=%23F3C6F2&title_bg=%23A0A09E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcindy0817-web&count_bg=%236CB237&title_bg=%23A0A09E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

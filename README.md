@@ -6,7 +6,7 @@ I'm a ***passionate sutdent*** who loves **frontend** and *design* as well.
 I'm studying **web**
 I'm learning **BackEnd** stac at school!
 
-Interested in `javaScript`, , `React`,`Spring`, `Spring boot`, `CS`,`Kotlin` these days...<br><br><br>
+Interested in `javaScript`, `React`,`Spring`, `Spring boot`, `CS`,`Kotlin` these days...<br><br><br>
 <div align="center">
 
   

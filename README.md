@@ -34,7 +34,7 @@ Interested in `javaScript`, `React`,`Spring`, `Spring boot`, `CS`,`Kotlin` these
 **🎈 contect me🎈**  
 
 <a href="https://velog.io/@cindy0817-web"><img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="https://www.notion.so/Flexible-Developer-Seoyeon-Bae-4f3d0f42c57240a8bd253c7fc58b8fe7"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a><br><br><br>
+<a href="https://resolute-cent-2ac.notion.site/Flexible-Developer-Seoyeon-Bae-4f3d0f42c57240a8bd253c7fc58b8fe7"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a><br><br><br>
 
 <details>
 <summary>👩‍💻Click Here!</summary>

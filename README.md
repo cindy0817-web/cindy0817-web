@@ -1,14 +1,16 @@
+<div align="center">
+  
+  
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&section=header&text=SEOYEON%20BAE\%20💡&fontAlignY=45&desc=a%20passionate%20person%20who%20loves%20FRONTEND&descSize=25&descAlignY=75&fontSize=60&animation=twinkling) <br><br>
+
 
 Hi there!👋<br><br>
 I'm a ***passionate sutdent*** who loves **frontend** and *design* as well.  
 
 I'm studying **web**
-I'm learning **BackEnd** stac at school!
+I'm learning **BackEnd** stac at school!<br><br>
 
-Interested in `javaScript`, `React`,`Spring`, `Spring boot`, `CS`,`Kotlin` these days...<br><br><br>
-<div align="center">
-
+  🐥🐥🐥<br><br>
   
 **🎄Tech Stack🎄**
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="76" height="76" />

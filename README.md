@@ -33,7 +33,7 @@ I'm learning **BackEnd** stac at school!<br><br>
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br><br>
   
-**🎈 contect me🎈**  
+**🎈 contact me🎈**  
 
 <a href="https://velog.io/@cindy0817-web"><img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://resolute-cent-2ac.notion.site/Flexible-Developer-Seoyeon-Bae-4f3d0f42c57240a8bd253c7fc58b8fe7"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a><br><br><br>

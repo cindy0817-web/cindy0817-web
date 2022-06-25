@@ -10,7 +10,7 @@ I'm a ***passionate sutdent*** who loves **frontend** and *design* as well.
 I'm studying **web**
 I'm learning **BackEnd** stac at school!<br><br>
 
-  🐥🐥🐥<br><br>
+  🐥🐥🐥🐥<br><br>
   
 **🎄Tech Stack🎄**
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="76" height="76" />

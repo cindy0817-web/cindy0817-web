@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Kotlin-1572B6?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><br><br>
 
-**🌷I've used🌷**
    <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="76" height="76" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="76" height="76" /></div>
    
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)

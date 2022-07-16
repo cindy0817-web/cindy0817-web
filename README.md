@@ -28,19 +28,7 @@
 <a href="https://velog.io/@cindy0817-web"><img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://resolute-cent-2ac.notion.site/Flexible-Developer-Seoyeon-Bae-4f3d0f42c57240a8bd253c7fc58b8fe7"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a><br><br><br>
 
-<!-- <details>
-<summary>👩‍💻Click Here!</summary>
-<div markdown="1">       
 
-<img src="https://wakatime.com/share/@09a0a224-d5db-47f4-9ac9-b0e42835f91a/be65ce4d-3b5d-4c4d-87c5-ae6b2e07cfad.png" width="500px"/>  
-<img src="https://wakatime.com/share/@09a0a224-d5db-47f4-9ac9-b0e42835f91a/a868055d-4450-4685-ac27-ac4fa96e1a5c.png" width="500px"/>  
-
-</div>
-  
-</details>
-
-
-## ME   -->
 ![SEOYEON BAE's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-double-7&hide=contribs,prs&count_private=true&show_icons=true)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcindy0817-web&count_bg=%236CB237&title_bg=%23A0A09E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

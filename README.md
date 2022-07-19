@@ -12,9 +12,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Python-ff69b4?style=flat-square&logo=Python&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Kotlin-1572B6?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><br><br>
 
    <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="76" height="76" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="76" height="76" /></div>
    

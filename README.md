@@ -1,7 +1,7 @@
 <div align="center">
   
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:2EFEF7,100:FE2EF7&height=180&section=header&text=SEOYEON%20BAE\%20💡&fontAlignY=45&desc=%20PASSIONATE%20DEVELOPER&descSize=25&descAlignY=75&fontSize=60&animation=twinkling) <br><br><br><br>
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:2EFEF7,100:FE2EF7&height=180&section=header&text=SEOYEON%20BAE\%20💡&fontAlignY=45&desc=%20PASSIONATE%20DEVELOPER&descSize=25&descAlignY=75&fontSize=60&animation=twinkling&fontColor=FFFFFF) <br><br><br><br>
   
 **🎄Tech Stack🎄**
 

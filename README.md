@@ -1,7 +1,7 @@
 <div align="center">
   
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=black&height=180&section=header&text=SEOYEON%20BAE\%20&fontAlignY=45&desc=%20PASSIONATE%20DEVELOPER&descSize=25&descAlignY=75&fontSize=60&animation=twinkling&fontColor=FFFFFF) <br><br><br><br>
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=848282&height=180&section=header&text=SEOYEON%20BAE\%20&fontAlignY=45&desc=%20PASSIONATE%20DEVELOPER&descSize=25&descAlignY=75&fontSize=60&animation=twinkling&fontColor=FFFFFF) <br><br><br><br>
   
 **⚒️Tech Stack⚒️**
 
@@ -31,4 +31,4 @@
 
 ![SEOYEON BAE's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-double-7&hide=contribs,prs&count_private=true&show_icons=true)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcindy0817-web&count_bg=%236CB237&title_bg=%23A0A09E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcindy0817-web&count_bg=%23A0A09E&title_bg=%23A0A09E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

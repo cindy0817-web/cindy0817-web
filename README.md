@@ -69,7 +69,7 @@
   
 </details>
 ## ME   -->
-![SEOYEON BAE's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-double-7&hide=contribs,prs&count_private=true&show_icons=true)
+![SEOYEON BAE's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-double-7&hide=contribs&count_private=true&show_icons=true)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcindy0817-web&count_bg=%23A0A09E&title_bg=%23A0A09E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

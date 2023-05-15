@@ -49,7 +49,7 @@ const Cindy = {
 더 자세한 사항을 알고싶다면 Notion을 방문해주세요 :)
 
 <a href="https://velog.io/@cindy0817-web"><img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="https://resolute-cent-2ac.notion.site/Seoyeon-Bae-Flexible-Developer-4f3d0f42c57240a8bd253c7fc58b8fe7"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a><br><br><br>
+<a href="https://www.notion.so/0a4b1396bb27422f94027655545bf82c?pvs=4"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a><br><br><br>
 
 
 ![SEOYEON BAE's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-double-7&hide=contribs&count_private=true&show_icons=true)

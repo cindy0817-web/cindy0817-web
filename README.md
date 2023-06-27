@@ -1,5 +1,7 @@
+<!--
+
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&section=header&text=SEOYEON%20BAE\%20🚀&fontAlignY=45&desc=%20PASSIONATE%20DEVELOPER&descSize=25&descAlignY=75&fontSize=60&animation=twinkling) <br><br>
-  
+
 
 <br/>
 
@@ -14,6 +16,7 @@ const Cindy = {
 
 
 <br/>
+-->
 
 ### "안녕하세요👋 배움의 자세가 되어있는 개발자 ***배서연*** 입니다."
 
@@ -25,15 +28,15 @@ const Cindy = {
 지적 호기심이 많고, 동작 원리까지 이해할 수 있도록 노력하고 있습니다.
 맡은 업무에 끝까지 책임을 가지고 목표를 달성하려고 노력합니다.
 
-개발을 즐기고 배움의 자세가 되어있는 주니어 개발자입니다.
+개발을 즐기고 배움의 자세가 되어있는 주니어 웹개발자입니다.
 
 현재 `javascript`와 `typescript`를 공부하고 있습니다.
 
 
 
-<br/><br/>
+<br/>
 
-  
+<!--  
 ### Tech Stack
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="76" height="76" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="76" height="76" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="76" height="76" /></div>
@@ -49,6 +52,7 @@ const Cindy = {
    
   ![VSCode](https://img.shields.io/badge/VSCode-FE7A16.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br><br>
+-->
   
 ### contact me 
 더 자세한 사항을 알고싶다면 Notion을 방문해주세요 :)

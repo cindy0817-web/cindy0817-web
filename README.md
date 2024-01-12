@@ -9,4 +9,4 @@ I'm currently using `Javascript`, `Typescript`, `React`, ect..
 📤bsy050817@gmail.com
 
 <a href="https://velog.io/@cindy0817-web"><img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="https://www.notion.so/0a4b1396bb27422f94027655545bf82c?pvs=4"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a><br><br><br>
+
